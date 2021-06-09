@@ -1,18 +1,14 @@
-<!-- _posts/2019-01-21-hello-world.md -->
-
 ---
-category: hello
-tags:
-  - world
-date: 2019-01-21
-title: Hello, world!
-vssue-title: Hello, world!
+category: First
+title: 'Hello, World!'
+description: 'The first post of my blog'
+date: 2018-05-09
+vssue-title: 'Hello, World!'
 ---
 
-This is my first post.
-
-The content above `more` is the excerpt, which will be displayed in the posts list.
+Just First Post, You Can Test It
 
 <!-- more -->
 
-The content below `more` will only be displayed when viewing this post, and will not be displayed in the posts list.
+Invite Musik Bot : (Cannot Be Added)
+Invite Musik Bot 2 : [Invite Me!](https://bayuu.xyz/mb2)
