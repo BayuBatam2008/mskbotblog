@@ -7,6 +7,11 @@ module.exports = {
   // Description of your website
   description: 'Musik Bot Blog Official',
 
+  // Header 
+  head: [
+    ['link', { rel: 'icon', href: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417996790_20210605_182832_0000.png9' }],
+  ],
+
   // Language of your website
   locales: {
     '/': {
@@ -98,7 +103,7 @@ module.exports = {
       // The background of the info card's header. You can choose to use an image, or to use random pattern (geopattern)
       headerBackground: {
         // URL of the background image. If you set the URL, the random pattern will not be generated, and the `useGeo` will be ignored.
-        url: '/assets/img/bg.jpg',
+        // url: '/assets/img/bg.jpg',
 
         // Use random pattern. If you set it to `false`, and you don't set the image URL, the background will be blank.
         useGeo: true,
@@ -112,6 +117,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', exact: true },
       { text: 'Posts', link: '/posts/', exact: false },
+      { text: 'Main Website', link: 'https://mskbot.bayuu.xyz' },
     ],
 
     // Enable smooth scrolling or not
