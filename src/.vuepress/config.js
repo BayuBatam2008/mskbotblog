@@ -46,7 +46,7 @@ module.exports = {
 
       // Your avatar image
       // Set to external link
-      avatar: 'https://www.meteorlxy.cn/assets/img/avatar.jpg',
+      avatar: 'https://www.img.bayuu.xyz/images/2021/06/09/0001-2489053881_20210607_153451_0000.png',
       // Or put into `.vuepress/public` directory. E.g. `.vuepress/public/img/avatar.jpg`
       // avatar: '/img/avatar.jpg',
 
@@ -126,8 +126,8 @@ module.exports = {
     comments: {
       owner: 'BayuBatam2008',
       repo: 'mskbotblog',
-      clientId: 'MY_CLIENT_ID',
-      clientSecret: 'MY_CLIENT_SECRET',
+      clientId: '9a8ac0c812dba9a6ca6f',
+      clientSecret: '54e7034ea519d8a1b1714f28b6087ce3b86e6633',
     },
 
     // Pagination config (Optional)
